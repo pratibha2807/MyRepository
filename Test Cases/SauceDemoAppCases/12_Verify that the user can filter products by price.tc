@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>12_Verify that the user can filter products by price</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fd7b35a3-0254-4dd0-a64a-9a74000c3fa7</testCaseGuid>
+</TestCaseEntity>

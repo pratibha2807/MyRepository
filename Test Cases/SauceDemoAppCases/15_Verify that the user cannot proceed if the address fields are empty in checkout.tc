@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>15_Verify that the user cannot proceed if the address fields are empty in checkout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>be6e2b74-8b3f-4793-9312-72c247cceb16</testCaseGuid>
+</TestCaseEntity>

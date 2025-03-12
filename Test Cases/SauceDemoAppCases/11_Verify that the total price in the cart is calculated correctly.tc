@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>11_Verify that the total price in the cart is calculated correctly</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ff6e7de1-5948-47f9-8a47-9aa8ae6f5589</testCaseGuid>
+</TestCaseEntity>

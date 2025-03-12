@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>09_Verify that a user can fill out the checkout information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>777c0588-d951-4dcf-99e1-be819216d6bb</testCaseGuid>
+</TestCaseEntity>

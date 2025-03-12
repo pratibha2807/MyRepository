@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>08_Verify that a user can remove a product from the cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>498495e3-d171-49db-9c5e-5a5e520d4434</testCaseGuid>
+</TestCaseEntity>

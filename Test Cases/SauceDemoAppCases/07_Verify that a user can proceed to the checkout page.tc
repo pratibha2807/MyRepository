@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>07_Verify that a user can proceed to the checkout page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>77c4a318-0adc-4870-917a-d764592e0895</testCaseGuid>
+</TestCaseEntity>

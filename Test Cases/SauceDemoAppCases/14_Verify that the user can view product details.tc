@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>14_Verify that the user can view product details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9760952f-b4af-4add-a98f-9022b292e91d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>13_Verify that the user can filter products by name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4486ca03-b6f2-43f0-95b8-f6f02cfe1f3c</testCaseGuid>
+</TestCaseEntity>

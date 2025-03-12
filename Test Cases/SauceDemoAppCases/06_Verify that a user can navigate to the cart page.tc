@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>06_Verify that a user can navigate to the cart page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a55c6762-41f1-4a12-a1f8-e3490b42a213</testCaseGuid>
+</TestCaseEntity>
